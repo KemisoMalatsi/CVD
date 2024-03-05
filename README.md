@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Kemiso Malatsi
 #### Software Engineering Student
-Software Engineering Student
 
 I'm a Software Engineering student at CodeSpace Academy with a focus on JavaScript development. I'm passionate about coding and love to explore new technologies. In my free time, I like to sharpen my skills by taking online Python courses on Freecodecamp.
 
