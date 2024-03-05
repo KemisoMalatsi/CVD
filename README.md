@@ -16,13 +16,5 @@ Skills:  JS / HTML / CSS
 - ⚡ Fun fact: When was young I wanted to be a Teacher. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kemiso Malatsi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Kemiso Malatsi/)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kemiso Malatsi)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kemiso Malatsi)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kemiso Malatsi&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Kemiso Malatsi/contributions?format=svg&private=false)  
+ 
 
