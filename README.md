@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Kemiso Malatsi
 #### Software Engineering Student
-![Software Engineering Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm a Software Engineering student at CodeSpace Academy with a focus on JavaScript development. I'm passionate about coding and love to explore new technologies. In my free time, I like to sharpen my skills by taking online Python courses on Freecodecamp.
 
@@ -16,9 +15,9 @@ Skills:  JS / HTML / CSS
 - ⚡ Fun fact: When was young I wanted to be a Teacher. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kemiso Malatsi) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KemisoMalatsi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/KemisoMalatsi/)  
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Kemiso Malatsi/)  
+
 
 
 
